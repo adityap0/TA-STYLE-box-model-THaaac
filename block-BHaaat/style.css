@@ -1,0 +1,13 @@
+.box{
+    width : 10px;
+    height : 20px;
+    padding : 2em;
+    background : tomato;
+    border : 10px solid aqua;
+    margin: 10px;
+    box-shadow: 0 0 40px ;
+    outline: 10px solid pink;
+
+}
+
+
